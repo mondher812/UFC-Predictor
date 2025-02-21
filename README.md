@@ -1,7 +1,7 @@
 ## FightSight
 
 ## Overview
-The Machine Learning Combat Sport Predictor project aims to leverage machine learning techniques to predict outcomes in combat sports. By analyzing historical fight data, the model provides insights into potential fight results, enhancing strategic decision-making for fighters and coaches.
+FightSight is a Machine Learning Combat Sport Predictor project which aims to leverage machine learning techniques to predict outcomes in combat sports. By analyzing historical fight data, the model provides insights into potential fight results, enhancing strategic decision-making for fighters and coaches.
 
 ## Key Contributions
 - **Data Preparation**: Merged two comprehensive fight datasets to create a robust dataset of over **1,000 entries**, laying the foundation for accurate predictions.
